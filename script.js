@@ -516,9 +516,9 @@ document.getElementById("").innerHTML=day;
 let root1, root2;
 
 // take input from the user
-let a = prompt("Enter the first number: ");
-let b = prompt("Enter the second number: ");
-let c = prompt("Enter the third number: ");
+let a = //prompt("Enter the first number: ");
+let b =// prompt("Enter the second number: ");
+let c = //prompt("Enter the third number: ");
 
 // calculate discriminant
 let discriminant = b * b - 4 * a * c;
